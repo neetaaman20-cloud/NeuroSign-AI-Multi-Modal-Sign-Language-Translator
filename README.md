@@ -1,4 +1,4 @@
-🤟 NeuroSign AI: Multi-Modal Sign Language Translator
+##🤟 NeuroSign AI: Multi-Modal Sign Language Translator
 NeuroSign AI is an "exceptional" accessibility tool that bridges the gap between sign language and spoken word. Unlike standard image classifiers, NeuroSign uses Spatial-Temporal Deep Learning to translate dynamic gestures into real-time speech while incorporating facial landmarks for emotional context.
 
 🌟 Key Features
